@@ -1,11 +1,10 @@
 {
   "type": "code",
-  "modid": "nohands",
-  "version": "0.1.1",
-  "name": "NoHands",
+  "modid": "nohandsrevived",
+  "version": "0.2.0",
+  "name": "NoHands Revived",
   "description": "Need a hand? No problem.",
-  "website": "https://github.com/mass8326/vintagestory-nohands",
-  "authors": ["Mass8326"],
-  "dependencies": { "game": "" },
+  "authors": ["Mass8326", "The_Revisionist"],
+  "dependencies": { "game": "1.22.0" },
   "side": "client"
 }
